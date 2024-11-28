@@ -2,6 +2,35 @@
 fast.com
 showip.net
 
+# Google
+bard.google.com
+gemini.google.com
+news.google.com
+suggestqueries.google.com
+lookerstudio.google.com
+
+# Youtube
+wide-youtube.l.google.com
+ytimg.l.google.com
+youtubei.googleapis.com
+youtubeembeddedplayer.googleapis.com
+youtube-ui.l.google.com
+
+# Microsoft
+copilot.microsoft.com
+designer.microsoft.com
+xsts.auth.xboxlive.com
+
+# Discord
+discord-attachments-uploads-prd.storage.googleapis.com 
+
+# parsec.app
+builds.parsec.app
+public.parsec.app
+
+# twiiter
+t.co
+
 # Figma
 figma.com
 mkto-sj310059.com
@@ -326,7 +355,7 @@ reactflow.dev
 netlify.com
 
 # Top-level domains
-.ua
+#.ua
 
 # Netflix
 nflxvideo.net
@@ -361,6 +390,8 @@ elqtrk.intel.com
 starget.intel.com
 geolocation.onetrust.com
 
+
+
 # Torrent trackers
 nnmclub.to
 nnmstatic.win
@@ -371,6 +402,7 @@ cnd2exp.online
 torrentgalaxy.to
 rutor.org
 cdnbunny.org
+rutracker.org
 
 # Media
 lostfilmtv2.site
@@ -438,6 +470,15 @@ analog.com
 # Nvidia
 geforcenow.com
 gfn.am
+nvidia.com
+geforce.com
+nvidia.cn
+gfe.nvidia.com
+developer.nvidia.com
+international.download.nvidia.com
+cdn.nvidia.com
+images.nvidia.com
+us.download.nvidia.com
 
 # Notion
 notion.so
